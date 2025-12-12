@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 def yes(cmd):
     import math
     while cmd=='y':
@@ -44,7 +43,6 @@ def yes(cmd):
                 num2 = user_input[2]
                 calculator(command,num1,num2)
             
-
 
 
 def calculator(command,num1,num2):
@@ -98,4 +96,4 @@ def calculator(command,num1,num2):
 
 #*************************************************************************************************************
 
->>>>>>> 4e356898c50c479387d16737f76be8700fe071c9
+
