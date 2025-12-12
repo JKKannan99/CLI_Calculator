@@ -18,8 +18,3 @@
 ###pen Terminal or Command Prompt and navigate to the folder where calc.py is saved.
 
 ###Run Commands Addition like python calc.py add 12 10
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 4e356898c50c479387d16737f76be8700fe071c9
