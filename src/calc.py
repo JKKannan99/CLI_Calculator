@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def yes(cmd):
     import math
     while cmd=='y':
@@ -74,3 +75,27 @@ def calculator(command,num1,num2):
   
     else:
         print("unknown command")
+=======
+# def calculator(command,num1,num2):
+ 
+#     x=float(num1)
+#     y=float(num2)
+
+#     if command=='add':
+#         print("Addition Result:",x + y)
+#     elif command=='sub':
+#         print("Subtraction Result:",x - y)
+#     elif command=='mul':
+#         print("Multiplication Result:",x * y)
+#     elif command=='div':
+#         if y==0:
+#             print('cannot divided by zero')
+#         else:
+#             print("Division Result:",x / y)
+    
+#     else:
+#         print("unknown command")
+
+#*************************************************************************************************************
+
+>>>>>>> 4e356898c50c479387d16737f76be8700fe071c9
