@@ -31,6 +31,8 @@
 #                 num2 = user_input[2]
 #                 calculator(command,num1,num2)
 #             except:
+
+#*************************************************************************************************************************
 #                 print("Error: Only numbers are allowed.")
 #                 return
 
